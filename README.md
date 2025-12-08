@@ -1,4 +1,5 @@
 ---------------------INPUT OUTPUT SNIPPETS OF THE CODE-------------
+
 Input 1 -->
 ![1](https://github.com/user-attachments/assets/72a561f3-1e2c-4abf-955a-d88397f09a38)
 
